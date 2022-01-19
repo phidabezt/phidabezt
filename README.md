@@ -6,6 +6,7 @@ Hi, I'm Nguyen Quang Phi - aka phidabezt 👋
 - 📫 Reach me add
 - ⚡ I love to code, but not the person who stick all day with computer. 
      I train myself a lot outdoor, so that i can have my best physical condition to maintain my learning path
+
 Contact me with:
 
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100005973827104">
