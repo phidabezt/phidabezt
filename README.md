@@ -9,18 +9,9 @@ Hi, I'm Nguyen Quang Phi - aka phidabezt 👋
      
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phidabezt)](https://github.com/phidabezt/github-readme-stats)
 
-Contact me with:
-
-<a target="_blank" href="https://www.facebook.com/profile.php?id=100005973827104">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<a target="_blank" href="https://www.instagram.com/ary.clenio/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a target="_blank" href="mailto:quangphi1231@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100005973827104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005973827104" height="30" width="40" /></a>
+<a href="https://instagram.com/ngquph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ngquph" height="30" width="40" /></a>
+</p>
                                                                                                                      
