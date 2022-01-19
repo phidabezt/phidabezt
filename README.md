@@ -1,4 +1,4 @@
-Hi, I'm Nguyen Quang Phi - aka phidabezt 👋
+<h1 align="center">Hi 👋, I'm Nguyen Quang Phi - aka phidabezt</h1>
 
 - 👀 I’m interested in Web Deverlopment and Cloud Computing (AWS)
 - 🌱 I’m currently learning React, Javascript, AWS, ... for being a FullStack Dev
@@ -6,8 +6,7 @@ Hi, I'm Nguyen Quang Phi - aka phidabezt 👋
 - 📫 Reach me add
 - ⚡ I love to code, but not the person who stick all day with computer. 
      I train myself a lot outdoor, so that i can have my best physical condition to maintain my learning path
-     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phidabezt)](https://github.com/phidabezt/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
