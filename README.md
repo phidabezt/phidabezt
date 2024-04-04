@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quang Phi - aka phidabezt</h1>
 
-- 👀 I’m interested in Web Deverlopment and Cloud Computing (AWS)
-- 🌱 I’m currently learning React, Javascript, AWS, ... for being a FullStack Dev
+- 👀 I’m interested in Web Deverlopment
+- 🌱 I’m currently working with React, NextJS for being a Front End Developer
 - 💞️ I’m looking to collaborate on anyone could help promoting my path
 - 📫 I'm reading the book of my life
 - ⚡ I love to code, but not the person who stick all day with computer. 
